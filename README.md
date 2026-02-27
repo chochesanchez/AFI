@@ -1,4 +1,4 @@
-# AFI – Dub Nation, Powered by Fans 🟡🔵
+# AFI – Stay Golden, Stay Connected 🟡🔵
 ### A Lumina Consulting Project
 
 ![WhatsApp Image 2026-02-26 at 13 01 22](https://github.com/user-attachments/assets/e16e97ab-c08b-4e30-a692-6344831f1a62)
