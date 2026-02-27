@@ -1,7 +1,6 @@
 # AFI – Stay Golden, Stay Connected 🟡🔵
-
-![WhatsApp Image 2026-02-26 at 13 01 22](https://github.com/user-attachments/assets/e16e97ab-c08b-4e30-a692-6344831f1a62)
 ### A Lumina Consulting Project
+![WhatsApp Image 2026-02-26 at 13 01 22](https://github.com/user-attachments/assets/e16e97ab-c08b-4e30-a692-6344831f1a62)
 
 
 AFI (Active Fan Interaction) is a web-based Fan Engagement Platform designed specifically for Golden State Warriors fans.
