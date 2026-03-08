@@ -5,26 +5,26 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#F4C430",
-        "primary-dark": "#C99E22",
+        primary: "#FFC72C",
+        "primary-dark": "#BB921F",
 
-        secondary: "#2F6FED",
+        secondary: "#1D428A",
 
         surface: {
-          dark: "#2B3A4A",
-          light: "#E6EEF6",
+          dark: "#5780AE",
+          light: "#C0E3FF",
         },
 
-        background: "#F8F9FB",
+        background: "#FFFFFF",
 
-        destructive: "#E53935",
-        "destructive-dark": "#C62828",
+        destructive: "#BE3A34",
+        "destructive-dark": "#93231E",
 
-        success: "#2ECC71",
+        success: "#22C55E",
 
         text: {
           DEFAULT: "#111111",
-          light: "#888888",
+          light: "#BFBFBF",
         },
       },
 
@@ -41,7 +41,7 @@ export default {
         links: ["14px", { lineHeight: "auto" }],
         small: ["10px", { lineHeight: "auto" }],
       },
-      
+
       fontFamily: {
         anton: ["Anton", "sans-serif"],
         lato: ["Lato", "sans-serif"],
